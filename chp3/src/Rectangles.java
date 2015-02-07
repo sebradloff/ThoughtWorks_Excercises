@@ -14,11 +14,11 @@ public class Rectangles {
         float sumAreas = 0;
         float averageArea;
 
-        for (int x = 1; x < 6; x++){
-            arr[0] = new Rectangles();
-            arr[0].height = x;
-            arr[0].width = x;
-            sumAreas += arr[0].area();
+        for (int x = 0; x < 5; x++){
+            arr[x] = new Rectangles();
+            arr[x].height = x + 1;
+            arr[x].width = x + 1;
+            sumAreas += arr[x].area();
         }
 
         averageArea = sumAreas / arr.length;
