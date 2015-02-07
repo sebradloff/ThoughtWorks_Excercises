@@ -22,7 +22,7 @@ public class Rectangles {
         }
 
         averageArea = sumAreas / arr.length;
- 
+
         System.out.println("The average area of all rectangles is " + averageArea);
     }
 }
