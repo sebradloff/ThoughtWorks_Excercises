@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ec2068-85e4-4cd8-a571-41b2ab1016e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chp4/src/Rectangles.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chp3/src/Rectangles.java" afterPath="$PROJECT_DIR$/chp3/src/Rectangles.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ThoughtWorks_Excercises.iml" afterPath="$PROJECT_DIR$/.idea/ThoughtWorks_Excercises.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chp4/src/Rectangles.java" afterPath="$PROJECT_DIR$/chp4/src/Rectangles.java" />
     </list>
     <ignored path="ThoughtWorks_Excercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,9 +29,14 @@
       <file leaf-file-name="Rectangles.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chp4/src/Rectangles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13513513" vertical-offset="0" max-vertical-offset="444">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding />
+            <state vertical-scroll-proportion="0.7094595" vertical-offset="0" max-vertical-offset="450">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding>
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -408,9 +410,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chp4/src/Rectangles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13513513" vertical-offset="0" max-vertical-offset="444">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
+        <state vertical-scroll-proportion="0.7094595" vertical-offset="0" max-vertical-offset="450">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
