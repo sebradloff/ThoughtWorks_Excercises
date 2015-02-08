@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ec2068-85e4-4cd8-a571-41b2ab1016e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chp5/src/GuessGame.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chp4/production/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chp4/production/Rectangles.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ThoughtWorks_Excercises.iml" afterPath="$PROJECT_DIR$/.idea/ThoughtWorks_Excercises.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chp5/src/GuessGameHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chp5/src/GuessGame.java" afterPath="$PROJECT_DIR$/chp5/src/GuessGame.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ThoughtWorks_Excercises.iws" />
@@ -45,14 +43,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GuessGame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GuessGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chp5/src/GuessGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="444">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#116#117#0" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuessGameHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chp5/src/GuessGameHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5405405" vertical-offset="0" max-vertical-offset="444">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,6 +80,7 @@
         <option value="$PROJECT_DIR$/chp4/src/Rectangles.java" />
         <option value="$PROJECT_DIR$/chp4/src/Rectangle.java" />
         <option value="$PROJECT_DIR$/chp5/src/GuessGame.java" />
+        <option value="$PROJECT_DIR$/chp5/src/GuessGameHelper.java" />
       </list>
     </option>
   </component>
@@ -527,11 +538,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chp5/src/GuessGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="444">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chp5/src/GuessGameHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5405405" vertical-offset="0" max-vertical-offset="444">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -10,6 +10,6 @@ public class GuessGame {
 
     public static void main(String []args){
         GuessGame game1 = new GuessGame();
-        
+
     }
 }
