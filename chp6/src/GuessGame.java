@@ -1,9 +1,12 @@
+import java.util.ArrayList;
+
 /**
  * Created by sebass on 2/11/15.
  */
 public class GuessGame {
     private int winningNum;
     private boolean gameOver;
+    private ArrayList<Integer> guessList;
 
     public GuessGame(){
         winningNum = (int) (Math.random() * 100) + 1;

@@ -28,11 +28,11 @@
       <file leaf-file-name="GuessGame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GuessGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82100594" vertical-offset="0" max-vertical-offset="676">
-              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.44378698" vertical-offset="30" max-vertical-offset="720">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
               <folding>
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#777#778#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,8 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GuessGame.java" />
         <option value="$PROJECT_DIR$/src/GuessGameHelper.java" />
+        <option value="$PROJECT_DIR$/src/GuessGame.java" />
       </list>
     </option>
   </component>
@@ -362,11 +362,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GuessGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82100594" vertical-offset="0" max-vertical-offset="676">
-          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.44378698" vertical-offset="30" max-vertical-offset="720">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
           <folding>
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
           </folding>
         </state>
       </provider>
