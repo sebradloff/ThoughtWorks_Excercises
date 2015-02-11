@@ -11,6 +11,7 @@ public class GuessGame {
     public GuessGame(){
         winningNum = (int) (Math.random() * 100) + 1;
         gameOver = false;
+        guessList = new ArrayList<Integer>();
     }
 
     public void rateGuess(String guess){
