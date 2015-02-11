@@ -30,6 +30,13 @@ public class GuessGame {
         return gameOver;
     }
 
+    public void outputGuesses(){
+        System.out.print("You guessed the following numbers: ");
+        for (Integer guess: guessList){
+            System.out.print(guess + " ");
+        }
+    }
+
     public static void main(String []args) {
         GuessGame game1 = new GuessGame();
         GuessGameHelper gameHelper = new GuessGameHelper();
@@ -39,6 +46,7 @@ public class GuessGame {
             String guess = gameHelper.getUserInput(prompt);
             game1.rateGuess(guess);
         }
-        
+
+        game1.outputGuesses();
     }
 }
