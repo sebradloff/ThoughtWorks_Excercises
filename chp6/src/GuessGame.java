@@ -15,6 +15,7 @@ public class GuessGame {
 
     public void rateGuess(String guess){
         int guessNum = Integer.parseInt(guess);
+        guessList.add(guessNum);
         if (guessNum > winningNum){
             System.out.println("Your guess was too high!");
         } else if (guessNum < winningNum){
@@ -38,5 +39,6 @@ public class GuessGame {
             String guess = gameHelper.getUserInput(prompt);
             game1.rateGuess(guess);
         }
+        
     }
 }

@@ -28,11 +28,11 @@
       <file leaf-file-name="GuessGame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GuessGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44378698" vertical-offset="30" max-vertical-offset="720">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.8668639" vertical-offset="29" max-vertical-offset="750">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
               <folding>
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -362,11 +362,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GuessGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44378698" vertical-offset="30" max-vertical-offset="720">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.8668639" vertical-offset="29" max-vertical-offset="750">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
           <folding>
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
           </folding>
         </state>
       </provider>
