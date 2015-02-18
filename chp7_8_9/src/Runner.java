@@ -11,6 +11,16 @@ public class Runner {
         Orc orc2 = new Orc();
 
         ArrayList<Monster> monsters = new ArrayList<Monster>();
-        
+        monsters.add(troll1);
+        monsters.add(troll2);
+        monsters.add(orc1);
+        monsters.add(orc2);
+
+        for (Monster m : monsters){
+            m.takeDamage(10);
+        }
+        for (Monster m : monsters){
+            System.out.println(m.name()+ ": " + m.currentHitpoints() + " hitpoints");
+        }
     }
 }
